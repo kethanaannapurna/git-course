@@ -1,1 +1,3 @@
 This is a random text
+
+Added simple text = "12345" 
